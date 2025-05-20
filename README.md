@@ -7,9 +7,9 @@ Jogo da cobrinha desenvolvido em C para rodar no terminal, utilizando a bibliote
 ## 👥 Membros do grupo
 
 - Maria Luiza (@seuGitHub)
-- Nome do colega 1 (@github1)
-- Nome do colega 2 (@github2)
-- Nome do colega 3 (@github3)
+- Ana Beatriz Astle (@github1)
+- João Astle (@github2)
+- Denise Tavares (@github3)
 
 ---
 
